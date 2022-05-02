@@ -1,7 +1,7 @@
 /**
  * Define some types here so that the rest of the code is more simulator-independent and readable.
  *
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #ifndef PREFETCHER_BB_BB_PREFTETCHER_TYPES_H

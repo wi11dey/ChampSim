@@ -1,5 +1,5 @@
 /*
- * Author: Arka Majumdar
+ * Author: Will Dey
  */
 
 #ifndef PREFETCHER_BB_SPATIAL_BITVECTOR_H

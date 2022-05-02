@@ -7,7 +7,7 @@
  * in the build_champsim.sh script and also provide greater modularity in the
  * actual stems_prefetcher code.
  *
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #include "stems/stems.h"

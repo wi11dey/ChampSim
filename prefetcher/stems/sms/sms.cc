@@ -1,5 +1,5 @@
 /*
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #include <cassert>

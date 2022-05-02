@@ -1,5 +1,5 @@
 /*
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #ifndef PREFETCHER_STEMS_SVB_ENTRY_H

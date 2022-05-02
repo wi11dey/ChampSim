@@ -7,7 +7,7 @@
  * option in the build_champsim.sh script and also provide greater modularity
  * in the actual stems_prefetcher code.
  *
- * File author: Arka Majumdar
+ * File author: Will Dey
  */
 
 #include "gac/ghb_prefetcher.h"

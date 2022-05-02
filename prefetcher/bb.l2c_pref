@@ -7,7 +7,7 @@
  * in the build_champsim.sh script and also provide greater modularity in the
  * actual code.
  *
- * Author: Arka Majumdar
+ * Author: Will Dey
  */
 
 #include "bb/bb.h"

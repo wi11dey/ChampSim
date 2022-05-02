@@ -1,5 +1,5 @@
 /*
- * Author: Arka Majumdar
+ * Author: Will Dey
  */
 
 #include "bb.h"

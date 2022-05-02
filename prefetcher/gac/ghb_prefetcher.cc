@@ -3,7 +3,7 @@
  *
  * Originally written for the Sniper simulator.
  *
- * Adapted for the ChampSim simulator: Arka Majumdar
+ * Adapted for the ChampSim simulator: Will Dey
  */
 
 #include "ghb_config.h"

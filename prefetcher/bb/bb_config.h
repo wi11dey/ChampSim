@@ -6,7 +6,7 @@
  * These parameters can be overridden at compile time by defining their values
  * through the '-D' flag for the compiler/preprocessor.
  *
- * Author: Arka Majumdar
+ * Author: Will Dey
  */
 
 #include "../../inc/champsim.h"

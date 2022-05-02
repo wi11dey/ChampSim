@@ -1,5 +1,5 @@
 /*
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #include "reconstruction_buffer.h"

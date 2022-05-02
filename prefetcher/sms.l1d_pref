@@ -7,7 +7,7 @@
  * in the build_champsim.sh script and also provide greater modularity in the
  * actual code.
  *
- * File author: Arka Majumdar
+ * File author: Will Dey
  */
 
 #include "sms/sms.h"

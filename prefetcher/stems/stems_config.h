@@ -6,7 +6,7 @@
  * These parameters can be overriden at compile time by defining their values
  * through the '-D' flag for the compiler/preprocessor.
  *
- * Implementation author: Arka Majumdar
+ * Implementation author: Will Dey
  */
 
 #ifndef STEMS_RECONSTRUCTION_RESUME_THRESHOLD

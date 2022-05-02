@@ -5,7 +5,7 @@
  *
  * Adapted for the Marssx86 simulator: Akanksha Jain at the University of Texas at Austin
  *
- * Then adapted for the ChampSim simulator: Arka Majumdar
+ * Then adapted for the ChampSim simulator: Will Dey
  */
 
 #include <string>

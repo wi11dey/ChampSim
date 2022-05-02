@@ -3,7 +3,7 @@
  *
  * Originally written for The 2nd Data Prefetching Championship (DPC2) by Pierre Michaud at Inria.
  *
- * Adapted for the ChampSim simulator: Arka Majumdar
+ * Adapted for the ChampSim simulator: Will Dey
  */
 
 #include <stdio.h>
